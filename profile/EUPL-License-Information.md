@@ -6,13 +6,14 @@ As such, we provide a brief overview of the license below.
 
 ## Disclaimer
 
-Please note that we provide this document to give a general understanding of the EUPL.
+Please note that we provide this document to give a general understanding of the EUPL, as well as explain how we interpreted it.
 
 **This document is not intended to provide legal advice!**
 
 If you are considering contributing or modifying the code or creating a derivative work,
 we recommend that you read the full license and official documentation to understand your rights and obligations fully.
 
+We welcome any correction should we've got something wrong!
 
 ## What is EUPL?
 
