@@ -83,6 +83,8 @@ The following licenses are compatible with the EUPL and may be incorporated and 
 * BSD 2-Clause "Simplified" or "FreeBSD" License
 * ISC License
 * Creative Commons Zero v1
+* Zero-Clause BSD
+* The Unlicense
 
 ### Compatible Downstream Licenses
 
