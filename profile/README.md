@@ -27,7 +27,6 @@ We provided a document to summarize what this license means in
 [EUPL License Information]
 
 
-[Code of Conduct]: [https://github.com/raptor-bots/.github/blob/main/CODE_OF_CONDUCT.md]
-[Privately reporting a security vulnerability]: [https://docs.github.com/enterprise-cloud@latest/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability]
-
-[EUPL License Information]: [https://github.com/raptor-bots/.github/blob/main/profile/EUPL-License-Information.md]
+[Code of Conduct]: https://github.com/raptor-bots/.github/blob/main/CODE_OF_CONDUCT.md
+[Privately reporting a security vulnerability]: https://docs.github.com/enterprise-cloud@latest/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability
+[EUPL License Information]: https://github.com/raptor-bots/.github/blob/main/profile/EUPL-License-Information.md
