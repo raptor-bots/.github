@@ -67,7 +67,7 @@ You can find a compatibility matrix for OSI-approved F/OSS licenses at
 https://joinup.ec.europa.eu/collection/eupl/matrix-eupl-compatible-open-source-licences.
 
 Please note that this is quite hefty legal stuff that I won't even attempt to summarize for people that are
-potentially not really that familiar with software-licenses in the first place, so I won't.
+potentially not really that familiar with software-licenses in the first place.
 
 Check the guidelines and license to see what the following subsections mean.
 
@@ -85,8 +85,7 @@ The following licenses are compatible with the EUPL and may be incorporated and 
 
 ### Compatible Downstream Licenses
 
-According to Article 15 of the EUPL 1.2, you are allowed to re-license works based on this repository under certain conditions 
-under one of the following licenses:
+According to then compatibility clause in Article 5 of the EUPL 1.2 and in reference to the first Appendix, you are allowed to re-license derivatives based on this repository under certain conditions - like the merging with code licensed under a compatible non EUPL-License - under one of the following licenses:
 
 * EUPL License
 * GNU General Public License (GPL) v. 2, v. 3
@@ -94,3 +93,6 @@ under one of the following licenses:
 * Open Software License (OSL) v. 2.1, v. 3.0
 * Eclipse Public License (EPL) v. 1.0
 * CeCILL License v. 2.1
+
+Please note that this is glossing over crucial details, and more used as a reference for ourself to setup our internal tooling.
+If you want to re-license a derivate under something else than the EUPL, you should REALLY read the EUPL!
