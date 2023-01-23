@@ -4,7 +4,7 @@ FOSS Bots and libraries, e.g. for Discord-Bots
 
 ## Projects
 
-[![](https://img.shields.io/badge/raptor--discord--bots-disord%20%3C--%3E%20node+typescript-lightgrey?style=for-the-badge&logo=Discord)](https://github.com/raptor-bots/raptor-discord-bots)
+[![](https://img.shields.io/badge/raptor--discord--bots-discord%20%3C--%3E%20node+typescript-lightgrey?style=for-the-badge&logo=Discord)](https://github.com/raptor-bots/raptor-discord-bots)
 
 ## Policies
 
